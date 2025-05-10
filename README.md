@@ -5,6 +5,7 @@ This is a classic **Pac-Man** game developed in **Java** using basic concepts li
 ## 📸 Screenshots
 
 ![WhatsApp Image 2025-05-10 at 00 11 42](https://github.com/user-attachments/assets/f90f1268-e504-40dd-b574-d37ca1b9477a)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![WhatsApp Image 2025-05-10 at 00 13 26](https://github.com/user-attachments/assets/320bc6b4-6d94-4030-a26f-43bbc8ce4349)
 
 
