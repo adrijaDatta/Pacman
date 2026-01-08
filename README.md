@@ -40,6 +40,42 @@
 
 ---
 
+## 📸 GAMEPLAY SCREENSHOTS
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    🎮 SEE THE ACTION! 🎮                         ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+### 🟡 Classic Maze Navigation
+
+<img src="https://github.com/user-attachments/assets/f90f1268-e504-40dd-b574-d37ca1b9477a" alt="Pac-Man Gameplay - Maze Navigation" width="600"/>
+
+*Navigate through the classic maze layout, collecting dots while avoiding ghosts!*
+
+```
+🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵 🔵
+```
+
+### 👻 Ghost Chase Action
+
+<img src="https://github.com/user-attachments/assets/320bc6b4-6d94-4030-a26f-43bbc8ce4349" alt="Pac-Man Gameplay - Ghost Chase" width="600"/>
+
+*Watch out! The four ghosts are on your trail. Grab a power pellet to turn the tables!*
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ⚡ POWER PELLET ACTIVATED → 👻 GHOSTS ARE VULNERABLE!         │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
 ## ✨ GAME FEATURES
 
 <table>
